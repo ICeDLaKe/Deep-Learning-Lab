@@ -1,0 +1,16 @@
+{
+  "data_path": "C:\\Users\\hritt\\Documents\\Coding\\ANN\\Ann Assign-2\\dataset_assignment2_afi507",
+  "base_dir": "C:\\Users\\hritt\\Documents\\Coding\\ANN\\Ann Assign-2\\results",
+  "epochs": 30,
+  "batch_size": 64,
+  "lr": 0.001,
+  "n_blocks": 3,
+  "activation": "relu",
+  "dropout_conv": 0.2,
+  "dropout_fc": 0.5,
+  "init": "he",
+  "seed": 42,
+  "num_workers": 0,
+  "pin_memory": true,
+  "early_stop_patience": 5
+}
